@@ -1,0 +1,29 @@
+{
+  "persons": [
+    {
+      "name": "Ada Lovelace",
+      "number": "044 517 8943",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Arto Hellas ",
+      "number": "044567890",
+      "id": 6
+    },
+    {
+      "name": "fili",
+      "number": "2",
+      "id": 7
+    },
+    {
+      "name": "aarni",
+      "number": "1234567890+",
+      "id": 8
+    }
+  ]
+}

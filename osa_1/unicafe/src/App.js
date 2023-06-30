@@ -28,6 +28,7 @@ const Statistics = ({good, neutral, bad}) =>{
       <StatisticLine text='positive' value={(good)/(good+neutral+bad)*100+' %'}/>
       </table>
     </div>
+    
   )
   }
   else{
