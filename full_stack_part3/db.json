@@ -17,18 +17,13 @@
     },
     {
       "name": "fili",
-      "number": "3",
+      "number": "2",
       "id": 7
     },
     {
       "name": "aarni",
       "number": "1234567890+",
       "id": 8
-    },
-    {
-      "name": "AARNI",
-      "number": "0443131131",
-      "id": 9
     }
   ]
 }
